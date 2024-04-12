@@ -8,7 +8,7 @@
 - **Tools:** Visual Studio Code
 
 ## Contact Me
-- You can reach me via email at [xxlfortnite0044@gmail.com](xxlfortnite0044@gmail.com)
+- You can reach me via email at [xxlfortnite0044@gmail.com]
 - Connect with me on Discord: Bolfe#0
 
 ## GitHub Stats
