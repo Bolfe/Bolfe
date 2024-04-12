@@ -4,7 +4,7 @@
 - 19 years old
 - Looking For Someone For A Project!
 ## Skills
-- **Languages:** MySQL, MongoDB, JavaScript, Java
+- **Languages:** MySQL, MongoDB, JavaScript, Java, Lua
 - **Tools:** Visual Studio Code
 
 ## Contact Me
