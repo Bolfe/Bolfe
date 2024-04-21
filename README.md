@@ -22,13 +22,13 @@
     <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Bolfe's Github Stats" 
-    src="https://streak-stats.demolab.com?user=ech0zdev&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=DD2727" 
+    src="https://streak-stats.demolab.com?user=Bolfe&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=DD2727" 
     height="192px" width= "3000px"/>
     </a>
     <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Bolfe's Top Languages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ech0zdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolfe&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
         height="192px"/>
     </div>
   <br/>
