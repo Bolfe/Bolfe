@@ -20,7 +20,7 @@
 ---
 <h1 align="center"><b>Github Stats</h1>
     <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a 
     <img alt="Bolfe's Github Stats" 
     src="https://streak-stats.demolab.com?user=Bolfe&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=DD2727" 
     height="192px" width= "3000px"/>
