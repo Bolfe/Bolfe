@@ -33,4 +33,4 @@
     </div>
   <br/>
   
-  [![Bolfe's Status](https://github-readme-stats.vercel.app/api?Bolfe=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Bolfe's Status](https://github-readme-activity-graph.vercel.app/graph?username=Bolfe&theme=react)](https://github.com/Bolfe/github-readme-activity-graph)
