@@ -5,6 +5,7 @@
 ## Personal Info:
 - **Name:** Tom
 - **Age:** 20 Years Old
+- **Discord:** Bolfe 🖤
 
 ---
 ## Tech Stack:
